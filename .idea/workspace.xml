@@ -39,11 +39,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600414032229</updated>
-      <workItem from="1600414033416" duration="326000" />
+      <workItem from="1600414033416" duration="907000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1600414225805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600414225805" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1600415091176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600415091176" />
+    <state x="342" y="140" key="new project wizard" timestamp="1600415095737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600415095737" />
   </component>
 </project>
